@@ -1,0 +1,31 @@
+<svg width="6500.000000000001" height="3900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_14">
+   <rect stroke="null" id="svg_1" fill="#b22234" height="3900" width="7410"/>
+   <path stroke="#fff" id="svg_2" stroke-width="300" d="m0,450l7410,0m0,600l-7410,0m0,600l7410,0m0,600l-7410,0m0,600l7410,0m0,600l-7410,0"/>
+   <rect stroke="null" id="svg_3" fill="#3c3b6e" height="2100" width="2964"/>
+   <g stroke="null" id="svg_4" fill="#fff">
+    <g stroke="null" id="s18">
+     <g stroke="null" id="s9">
+      <g stroke="null" id="s5">
+       <g stroke="null" id="s4">
+        <path stroke="null" d="m247,90l70.53423,217.08204l-184.66101,-134.16408l228.25356,0l-184.66101,134.16408l70.53423,-217.08204z" id="s"/>
+        <use stroke="null" id="svg_5" y="420" xlink:href="#s"/>
+        <use stroke="null" id="svg_6" y="840" xlink:href="#s"/>
+        <use stroke="null" id="svg_7" y="1260" xlink:href="#s"/>
+       </g>
+       <use stroke="null" id="svg_8" y="1680" xlink:href="#s"/>
+      </g>
+      <use stroke="null" id="svg_9" y="210" x="247" xlink:href="#s4"/>
+     </g>
+     <use stroke="null" id="svg_10" x="494" xlink:href="#s9"/>
+    </g>
+    <use stroke="null" id="svg_11" x="988" xlink:href="#s18"/>
+    <use stroke="null" id="svg_12" x="1976" xlink:href="#s9"/>
+    <use stroke="null" id="svg_13" x="2470" xlink:href="#s5"/>
+   </g>
+  </g>
+ </g>
+</svg>
