@@ -1794,7 +1794,7 @@ html {
   float: left;
   width: 100%;
   padding: 34px 24px;
-  // height: calc(100vh - 240px);
+  /* height: calc(100vh - 240px); */
   height: auto;
   overflow: hidden;
   overflow-y: scroll;
